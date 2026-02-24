@@ -12,7 +12,7 @@ Las comunidades salvadoreña que cuenta con servicio de agua potable enfrentan d
 
 SOLUCIÓN:
 
-Monitoreo en Tiempo Real: Visualización del consumo de agua por cada punto de medición (vivienda) con actualización continua en el panel administrativo web.
+Panel Administrativo Web: Interfaz visual con se muestra la gestión de agua potable como su consumo, la posible perdida de agua o la baja presión del agua, monitoreando y registrando los datos de las distinta vivienda
 
 SECTOR:
 
