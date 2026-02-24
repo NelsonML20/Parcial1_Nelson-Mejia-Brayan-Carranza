@@ -1,1 +1,4 @@
-# Parcial1_Nelson-Mejia-Brayan-Carranza
+# Parcial1
+#Integrantes
+#Brayan Isaac Carranza Amaya 
+#Nelson Javier Mejía Lemus
